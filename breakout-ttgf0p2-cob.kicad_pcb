@@ -30338,14 +30338,6 @@
 		(uuid "ceec41ef-0f2c-451e-a6ba-fd683157f1ad")
 	)
 	(segment
-		(start 138 74)
-		(end 137.638073 74)
-		(width 0.3)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "d23212e9-885f-46b4-93d4-4a6d5faec532")
-	)
-	(segment
 		(start 131.85 56.775)
 		(end 131.6 57.025)
 		(width 0.25)
