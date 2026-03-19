@@ -8,8 +8,8 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "COB Breakout For TinyTapeout GF 0p2")
-		(date "2026-03-17")
+		(title "Tiny Tapeout GF 0p2 COB ETR PCB")
+		(date "2026-03-19")
 		(rev "0.1")
 		(comment 1 "Based on Pat Deegan's IHP breakout")
 	)
