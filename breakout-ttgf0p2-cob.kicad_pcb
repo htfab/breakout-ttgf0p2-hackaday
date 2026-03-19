@@ -30405,6 +30405,17 @@
 		(layer "F.SilkS")
 		(uuid "35992749-81ec-40f1-8bbb-bfee42e6d8c1")
 	)
+	(gr_rect
+		(start 130.7308 93.37825)
+		(end 132.7628 95.41025)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "3e59286f-2ef2-4abc-b08c-0be033888ce0")
+	)
 	(gr_line
 		(start 166.65 44.05)
 		(end 166.65 45.15)
@@ -30475,6 +30486,17 @@
 		)
 		(layer "F.SilkS")
 		(uuid "91a758f9-2339-4d3a-97b7-bf60da674510")
+	)
+	(gr_rect
+		(start 123.8728 93.37825)
+		(end 125.9048 95.41025)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "9449ba27-a225-49bf-bdb2-1db32662ca4d")
 	)
 	(gr_line
 		(start 125.25 47.3375)
@@ -31043,7 +31065,7 @@
 		)
 	)
 	(gr_text "Based on Pat Deegan's IHP breakout"
-		(at 117.48 94.25 0)
+		(at 117.48 91.694 0)
 		(layer "F.SilkS")
 		(uuid "215aae6a-1c6e-4d5b-85ab-b51e231991d0")
 		(effects
@@ -31105,6 +31127,18 @@
 			(justify bottom)
 		)
 	)
+	(gr_text "TTPG"
+		(at 133.0168 94.996 0)
+		(layer "F.SilkS")
+		(uuid "6eed9096-31a4-48ce-bdf1-8039f524b763")
+		(effects
+			(font
+				(size 1 0.9)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "*"
 		(at 139.1 52.95 0)
 		(layer "F.SilkS")
@@ -31158,7 +31192,7 @@
 		)
 	)
 	(gr_text "TTGF0p2 COB breakout v${REVISION}"
-		(at 117.25 92.32 0)
+		(at 117.472 89.7636 0)
 		(layer "F.SilkS")
 		(uuid "d31acc19-cd11-4a53-938b-3089ccd3c64f")
 		(effects
@@ -31180,6 +31214,30 @@
 				(bold yes)
 			)
 			(justify bottom)
+		)
+	)
+	(gr_text "TTP2"
+		(at 126.1588 94.996 0)
+		(layer "F.SilkS")
+		(uuid "d93c5d97-6427-4dbb-890f-7ffb612b4387")
+		(effects
+			(font
+				(size 1 0.9)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Variant:"
+		(at 117.5228 94.9452 0)
+		(layer "F.SilkS")
+		(uuid "e1f804cc-7364-4f2c-aad6-abcb4c4b9726")
+		(effects
+			(font
+				(size 1 0.9)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "*"
