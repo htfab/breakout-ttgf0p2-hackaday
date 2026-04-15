@@ -582,6 +582,7 @@
       "version": 4
     },
     "net_colors": {
+      "/ctrl_sel_rst_n": "rgb(129, 0, 9)",
       "GND": "rgb(129, 0, 9)"
     },
     "netclass_assignments": null,
