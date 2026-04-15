@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "TinyTapeout")(type "KiCad")(uri "${KIPRJMOD}/../tinytapeout-kicad-libs/footprints/TinyTapeout.pretty")(options "")(descr ""))
   (lib (name "cob")(type "KiCad")(uri "${KIPRJMOD}/cob.pretty")(options "")(descr ""))
+  (lib (name "castellated")(type "KiCad")(uri "${KIPRJMOD}/castellated.pretty")(options "")(descr ""))
 )

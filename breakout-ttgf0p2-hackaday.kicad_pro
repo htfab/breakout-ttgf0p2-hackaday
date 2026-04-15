@@ -63,12 +63,7 @@
           "width": 0.17
         }
       ],
-      "drc_exclusions": [
-        [
-          "courtyards_overlap|115598996|79278314|5ee26e7a-702f-44b5-a092-07181af7d650|e1d4f2ed-8357-4ecd-8a31-d39c56725fd9",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -497,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "breakout-ttgf0p2-cob.kicad_pro",
+    "filename": "breakout-ttgf0p2-hackaday.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -589,206 +584,7 @@
     "net_colors": {
       "GND": "rgb(129, 0, 9)"
     },
-    "netclass_assignments": {
-      "/ADC": [
-        "MANAGEMENT"
-      ],
-      "/CS_SCL": [
-        "MANAGEMENT"
-      ],
-      "/RX_SDA": [
-        "MANAGEMENT"
-      ],
-      "/SCK": [
-        "MANAGEMENT"
-      ],
-      "/TX": [
-        "MANAGEMENT"
-      ],
-      "/an0": [
-        "Analog"
-      ],
-      "/an1": [
-        "Analog"
-      ],
-      "/an10": [
-        "Analog"
-      ],
-      "/an11": [
-        "Analog"
-      ],
-      "/an12": [
-        "Analog"
-      ],
-      "/an13": [
-        "Analog"
-      ],
-      "/an14": [
-        "Analog"
-      ],
-      "/an15": [
-        "Analog"
-      ],
-      "/an16": [
-        "Analog"
-      ],
-      "/an17": [
-        "Analog"
-      ],
-      "/an18": [
-        "Analog"
-      ],
-      "/an19": [
-        "Analog"
-      ],
-      "/an2": [
-        "Analog"
-      ],
-      "/an20": [
-        "Analog"
-      ],
-      "/an21": [
-        "Analog"
-      ],
-      "/an3": [
-        "Analog"
-      ],
-      "/an4": [
-        "Analog"
-      ],
-      "/an5": [
-        "Analog"
-      ],
-      "/an6": [
-        "Analog"
-      ],
-      "/an7": [
-        "Analog"
-      ],
-      "/an8": [
-        "Analog"
-      ],
-      "/an9": [
-        "Analog"
-      ],
-      "/an[0..11]": [
-        "Analog"
-      ],
-      "/an[0..5]": [
-        "Analog"
-      ],
-      "/an[0..7]": [
-        "Analog"
-      ],
-      "/an[12..21]": [
-        "Analog"
-      ],
-      "/an[6..11]": [
-        "Analog"
-      ],
-      "/an[8..15]": [
-        "Analog"
-      ],
-      "/chip_an0": [
-        "Analog"
-      ],
-      "/chip_an1": [
-        "Analog"
-      ],
-      "/chip_an10": [
-        "Analog"
-      ],
-      "/chip_an11": [
-        "Analog"
-      ],
-      "/chip_an2": [
-        "Analog"
-      ],
-      "/chip_an3": [
-        "Analog"
-      ],
-      "/chip_an4": [
-        "Analog"
-      ],
-      "/chip_an5": [
-        "Analog"
-      ],
-      "/chip_an6": [
-        "Analog"
-      ],
-      "/chip_an7": [
-        "Analog"
-      ],
-      "/chip_an8": [
-        "Analog"
-      ],
-      "/chip_an9": [
-        "Analog"
-      ],
-      "/chip_an[0..5]": [
-        "Analog"
-      ],
-      "/chip_an[6..11]": [
-        "Analog"
-      ],
-      "/enable": [
-        "Management"
-      ],
-      "/hd_an0": [
-        "Analog"
-      ],
-      "/hd_an1": [
-        "Analog"
-      ],
-      "/hd_an10": [
-        "Analog"
-      ],
-      "/hd_an11": [
-        "Analog"
-      ],
-      "/hd_an2": [
-        "Analog"
-      ],
-      "/hd_an3": [
-        "Analog"
-      ],
-      "/hd_an4": [
-        "Analog"
-      ],
-      "/hd_an5": [
-        "Analog"
-      ],
-      "/hd_an6": [
-        "Analog"
-      ],
-      "/hd_an7": [
-        "Analog"
-      ],
-      "/hd_an8": [
-        "Analog"
-      ],
-      "/hd_an9": [
-        "Analog"
-      ],
-      "/hd_an[0..5]": [
-        "Analog"
-      ],
-      "/hd_an[6..11]": [
-        "Analog"
-      ],
-      "/increment": [
-        "Management"
-      ],
-      "/rst_n": [
-        "Management"
-      ],
-      "/{MNG}": [
-        "MANAGEMENT"
-      ],
-      "/{PMUX}": [
-        "Management"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "PowerRail",
